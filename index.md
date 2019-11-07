@@ -2,15 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+王庆勇
 
-[Link to another page](./another-page.html).
+[Link to english page](http://wqy.finlab.cn).
 
-There should be whitespace between paragraphs.
+研究方向：机器学习
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Pubulised
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
