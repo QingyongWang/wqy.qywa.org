@@ -1,2 +1,3 @@
 
-身份证下载(href='/IDcard.zip')
+
+[身份证下载](http://wqy.qywa.org/wqy/IDcard.zip).
