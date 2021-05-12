@@ -6,9 +6,10 @@ Liangyong Xia
 
 
 
-研究方向：机器学习
+研究方向：机器学习,
+  Bioinformatics
 
-# Pubulised
+# Publication
 
 [Google Scholar](https://xs.glgoo.top/citations?hl=zh-CN&user=7q9Vbi4AAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -38,7 +39,8 @@ JOURNAL OF CHEMICAL INFORMATION AND MODELING
 Volume 59 Issue 7 Page 3340-3351 Published 2019
 TIMES CITED
 0
-> 
+
+
 Descriptor Selection Improvements for Quantitative Structure-Activity Relationships
 Xia, Liang-Yong ; Wang, Qing-Yong ; Cao, Zehong …More
 INTERNATIONAL JOURNAL OF NEURAL SYSTEMS
@@ -69,21 +71,24 @@ SCIENTIFIC REPORTS
 Volume 7 Published 2017
 TIMES CITED
 0
-> 
+
+
 Image super-resolution reconstruction via L-1/2 and S-1/2 regularizations
 Xia, Liang-Yong ; Lin, Xu-Xin ; Liang, Yong …More
 2016 INTERNATIONAL CONFERENCE ON DIGITAL IMAGE COMPUTING: TECHNIQUES AND APPLICATIONS (DICTA)
 Page 404-411 Published 2016
 TIMES CITED
 0
-> 
+
+
 Low-rank and Sparse Matrix Decomposition based on S-1/2 and L-1/2 Regularizations in Dynamic MRI
 Lin, Xu-Xin ; Xia, Liang-Yong ; Liang, Yong …More
 2016 SIXTH INTERNATIONAL CONFERENCE ON IMAGE PROCESSING THEORY, TOOLS AND APPLICATIONS (IPTA)
 Published 2016
 TIMES CITED
 4
-> 
+
+
 Identification of 13 blood-based gene expression signatures to accurately distinguish tuberculosis from other pulmonary diseases and healthy controls
 Huang, Hai-Hui ; Liu, Xiao-Ying ; Liang, Yong …More
 BIO-MEDICAL MATERIALS AND ENGINEERING
