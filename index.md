@@ -12,7 +12,7 @@ Liangyong Xia
 # Publication
 
 [Google Scholar](https://xs.glgoo.top/citations?hl=zh-CN&user=7q9Vbi4AAAAJ&view_op=list_works&sortby=pubdate)
-
+https://sc.panda321.com/citations?hl=zh-CN&user=7q9Vbi4AAAAJ&view_op=list_works&sortby=pubdate
 联系邮箱 
 
 
